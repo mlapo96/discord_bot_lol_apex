@@ -226,7 +226,7 @@ async def on_ready():
     print('------')
 
 # real server
-client.run('NTQ4MjkxNTY3MDEwNDQ3Mzk3.D1DMCA.9mgXmgi0ulQi5PyKhwsBSSWapYs')
+client.run(config.real_server)
 
 # test server
-#client.run('NTQ4Mjc1Mjk3MTY3MDgxNDkx.D1DN8A.81xhhgHuM4R2RLSGGJ99C0cdk3s')
+#client.run(config.test_server)
