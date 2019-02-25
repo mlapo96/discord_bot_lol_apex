@@ -7,6 +7,10 @@ You need a config.py file containing:
   
   api_key_apex = "YOUR_GG_TRACKER_APEX_LEGENDS_API_KEY"
   
+  real_server = "YOUR_OWN_DISCORD_BOT_TOKEN"
+  
+  test_server = "YOUR_OWN_DISCORD_BOT_TOKEN"
+  
 Usage:
 
   !apex originName for apex stats
